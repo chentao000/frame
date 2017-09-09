@@ -722,7 +722,7 @@ composer create-project chaorenwubin/frame c86frame dev-master --prefer-dist
 ```
 命令推送
 ```angular2html
-1.git add -A    2.git add -m  3.git push
+1.git add -A    2.git commit -m  3.git push
 ```
 
 
