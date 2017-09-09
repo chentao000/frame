@@ -1,0 +1,24 @@
+{
+  "name": "chentao000/frame",
+  "description": "后盾学习框架",
+  "type": "project",
+  "authors": [
+    {
+      "name": "陈涛",
+      "email": "15699057962@163.com"
+    }
+  ],
+  "require": {
+    "filp/whoops": "^2.1"
+  },
+  "autoload": {
+    "files": [
+      "system/helper.php"
+    ],
+    "psr-4": {
+      "houdun\\": "houdun\\",
+      "app\\":"app\\",
+      "system\\":"system\\"
+    }
+  }
+}
