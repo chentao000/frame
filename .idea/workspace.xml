@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10e5b9f0-7eda-48b1-ac01-9b41947439cb" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/frame.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/home/controller/Entry.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/home/view/entry/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/houdun/core/Boot.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/houdun/core/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/houdun/model/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/houdun/model/Madel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/houdun/view/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/houdun/view/View.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/bs3/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/view/message.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/config/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/model/Student.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,12 +48,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Entry.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Entry.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/home/controller/Entry.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
               <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="131">
+                <caret line="724" column="40" lean-forward="false" selection-start-line="724" selection-start-column="40" selection-end-line="724" selection-end-column="40" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -138,7 +114,6 @@
         <option value="$PROJECT_DIR$/centre/core/Boot.php" />
         <option value="$PROJECT_DIR$/app/home/controller/Text.php" />
         <option value="$PROJECT_DIR$/public/index.php" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/houdun/view/View.php" />
         <option value="$PROJECT_DIR$/public/view/message.php" />
         <option value="$PROJECT_DIR$/houdun/core/Controller.php" />
@@ -154,6 +129,7 @@
         <option value="$PROJECT_DIR$/houdun/model/Madel.php" />
         <option value="$PROJECT_DIR$/houdun/core/Boot.php" />
         <option value="$PROJECT_DIR$/app/home/controller/Entry.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -288,12 +264,12 @@
       <workItem from="1504790475324" duration="1569000" />
       <workItem from="1504831051814" duration="3891000" />
       <workItem from="1504852451622" duration="21824000" />
-      <workItem from="1504916867686" duration="2613000" />
+      <workItem from="1504916867686" duration="4459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46418000" />
+    <option name="totallyTimeSpent" value="48264000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -464,16 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="240">
-            <caret line="463" column="24" lean-forward="false" selection-start-line="463" selection-start-column="24" selection-end-line="463" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -678,6 +644,17 @@
         <state relative-caret-position="168">
           <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="131">
+            <caret line="724" column="40" lean-forward="false" selection-start-line="724" selection-start-column="40" selection-end-line="724" selection-end-column="40" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
