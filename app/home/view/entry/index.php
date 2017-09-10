@@ -18,6 +18,6 @@
 		</p>
 	</div>
 </div>
-<?php echo $a ?>
+
 </body>
 </html>
