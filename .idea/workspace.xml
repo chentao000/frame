@@ -2,10 +2,139 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10e5b9f0-7eda-48b1-ac01-9b41947439cb" name="默认的" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/bootstrap-3.3.0-dist/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/bootstrap-3.3.0-dist/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/bootstrap-3.3.0-dist/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin/controller/Common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin/controller/Entry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin/controller/Login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin/view/entry/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin/view/entry/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin/view/login/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/.idea/后台模板.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/addArticle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/articleIndex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/bootstrap-3.3.0-dist/dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/bootstrap-3.3.0-dist/dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/bootstrap-3.3.0-dist/dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/bootstrap-3.3.0-dist/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/bootstrap-3.3.0-dist/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/bootstrap-3.3.0-dist/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/bootstrap-3.3.0-dist/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/bootstrap-3.3.0-dist/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/bootstrap-3.3.0-dist/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/bootstrap-3.3.0-dist/dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/css/font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/css/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/css/site.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/font-awesome-4.7.0/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/houtaimoban/static/js/slimscroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/css/font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/css/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/css/site.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/font-awesome-4.7.0/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/js/slimscroll/jquery.slimscroll.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/home/controller/Entry.php" afterPath="$PROJECT_DIR$/app/home/controller/Entry.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/home/view/entry/index.php" afterPath="$PROJECT_DIR$/app/home/view/entry/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/houdun/core/Controller.php" afterPath="$PROJECT_DIR$/houdun/core/Controller.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/houdun/model/Base.php" afterPath="$PROJECT_DIR$/houdun/model/Base.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/houdun/view/Base.php" afterPath="$PROJECT_DIR$/houdun/view/Base.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/config/database.php" afterPath="$PROJECT_DIR$/system/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/helper.php" afterPath="$PROJECT_DIR$/system/helper.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/system/model/Student.php" afterPath="$PROJECT_DIR$/system/model/Admin.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,59 +162,85 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Base.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Base.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/houdun/model/Base.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="140" column="19" lean-forward="false" selection-start-line="140" selection-start-column="19" selection-end-line="140" selection-end-column="19" />
+            <state relative-caret-position="409">
+              <caret line="178" column="49" lean-forward="false" selection-start-line="178" selection-start-column="43" selection-end-line="178" selection-end-column="49" />
               <folding>
                 <element signature="e#32#49#0#PHP" expanded="true" />
-                <marker date="1505029580430" expanded="true" signature="1004:1024" ph="select * fro... " />
-                <marker date="1505029580430" expanded="true" signature="1004:1025" ph="select * fro... student" />
-                <marker date="1505029580430" expanded="true" signature="1004:1039" ph="select * fro... " />
-                <marker date="1505029580430" expanded="true" signature="1004:1040" ph="select * fro... $" />
-                <marker date="1505029580430" expanded="true" signature="1004:1054" ph="select * fro... $" />
-                <marker date="1505029580430" expanded="true" signature="1004:1070" ph="select * fro... " />
-                <marker date="1505029580430" expanded="true" signature="1469:1490" ph="select * fro... $" />
-                <marker date="1505029580430" expanded="true" signature="1469:1504" ph="select * fro... " />
-                <marker date="1505029580430" expanded="true" signature="1469:1505" ph="select * fro... $" />
-                <marker date="1505029580430" expanded="true" signature="1469:1519" ph="select * fro... $" />
-                <marker date="1505029580430" expanded="true" signature="1856:1884" ph="select count... $" />
-                <marker date="1505029580430" expanded="true" signature="1856:1899" ph="select count... $" />
-                <marker date="1505029580430" expanded="true" signature="1856:1913" ph="select count... $" />
-                <marker date="1505029580430" expanded="true" signature="2475:2535" ph="select ${{$f... " />
-                <marker date="1505029580430" expanded="true" signature="2475:2544" ph="select ${{$f... " />
-                <marker date="1505029580430" expanded="true" signature="2475:2545" ph="select ${{$f... " />
-                <marker date="1505029580430" expanded="true" signature="3312:3346" ph="update ${{$t... " />
-                <marker date="1505029580430" expanded="true" signature="3312:3347" ph="update ${{$t... " />
-                <marker date="1505029580430" expanded="true" signature="3312:3361" ph="update ${{$t... " />
-                <marker date="1505029580430" expanded="true" signature="3878:3905" ph="delete from " />
-                <marker date="1505029580430" expanded="true" signature="4600:4612" ph="insert into $... " />
-                <marker date="1505029580430" expanded="true" signature="4600:4626" ph="insert into " />
-                <marker date="1505029580430" expanded="true" signature="4600:4645" ph="insert into $... " />
-                <marker date="1505029580430" expanded="true" signature="4600:4657" ph="insert into $... " />
-                <marker date="1505029580430" expanded="true" signature="4724:4765" ph="/** * 获取表中id... " />
+                <marker date="1505120970267" expanded="true" signature="998:1034" ph="select ${{$f... " />
+                <marker date="1505120970267" expanded="true" signature="1463:1499" ph="select ${{$f... " />
+                <marker date="1505120970267" expanded="true" signature="1847:1890" ph="select count... $" />
+                <marker date="1505120970267" expanded="true" signature="2466:2536" ph="select ${{$f... " />
+                <marker date="1505120970267" expanded="true" signature="3303:3338" ph="update ${{$t... " />
+                <marker date="1505120970267" expanded="true" signature="3869:3896" ph="delete from " />
+                <marker date="1505120970267" expanded="true" signature="4591:4648" ph="insert into $... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Entry.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/home/controller/Entry.php">
+        <entry file="file://$PROJECT_DIR$/app/admin/controller/Entry.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="159">
-              <caret line="73" column="67" lean-forward="false" selection-start-line="73" selection-start-column="67" selection-end-line="73" selection-end-column="67" />
+              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+              <folding>
+                <element signature="e#40#61#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Base.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houdun/view/Base.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="57" column="10" lean-forward="false" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/home/view/entry/index.php">
+      <file leaf-file-name="Madel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houdun/model/Madel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="303">
+              <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/admin/view/entry/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-600">
+              <caret line="137" column="45" lean-forward="false" selection-start-line="137" selection-start-column="45" selection-end-line="137" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Admin.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/system/model/Admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="131" column="71" lean-forward="false" selection-start-line="131" selection-start-column="71" selection-end-line="131" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/admin/controller/Login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="52" column="45" lean-forward="false" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+              <folding>
+                <element signature="e#40#67#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,20 +260,30 @@
         <option value="$PROJECT_DIR$/public/index.php" />
         <option value="$PROJECT_DIR$/houdun/view/View.php" />
         <option value="$PROJECT_DIR$/public/view/message.php" />
-        <option value="$PROJECT_DIR$/houdun/core/Controller.php" />
         <option value="$PROJECT_DIR$/houdun/model/View.php" />
-        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/system/model/Action.php" />
-        <option value="$PROJECT_DIR$/system/config/database.php" />
-        <option value="$PROJECT_DIR$/system/helper.php" />
         <option value="$PROJECT_DIR$/system/config/view.php" />
-        <option value="$PROJECT_DIR$/houdun/view/Base.php" />
-        <option value="$PROJECT_DIR$/houdun/model/Madel.php" />
         <option value="$PROJECT_DIR$/houdun/core/Boot.php" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/app/home/view/entry/index.php" />
+        <option value="$PROJECT_DIR$/app/home/view/login/login.php" />
+        <option value="$PROJECT_DIR$/system/model/Student.php" />
+        <option value="$PROJECT_DIR$/system/config/database.php" />
         <option value="$PROJECT_DIR$/app/home/controller/Entry.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/houdun/core/Controller.php" />
         <option value="$PROJECT_DIR$/houdun/model/Base.php" />
+        <option value="$PROJECT_DIR$/system/helper.php" />
+        <option value="$PROJECT_DIR$/app/admin/controller/Login.php" />
+        <option value="$PROJECT_DIR$/app/admin/controller/Common.php" />
+        <option value="$PROJECT_DIR$/app/admin/view/entry/index.php" />
+        <option value="$PROJECT_DIR$/document/houtaimoban/articleIndex.html" />
+        <option value="$PROJECT_DIR$/houdun/view/Base.php" />
+        <option value="$PROJECT_DIR$/app/admin/view/login/index.php" />
+        <option value="$PROJECT_DIR$/app/admin/view/entry/edit.php" />
+        <option value="$PROJECT_DIR$/app/admin/controller/Entry.php" />
+        <option value="$PROJECT_DIR$/houdun/model/Madel.php" />
+        <option value="$PROJECT_DIR$/system/model/Admin.php" />
       </list>
     </option>
   </component>
@@ -137,10 +302,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-110" />
-    <option name="y" value="127" />
-    <option name="width" value="1346" />
-    <option name="height" value="692" />
+    <option name="x" value="226" />
+    <option name="y" value="20" />
+    <option name="width" value="1280" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -192,29 +357,37 @@
               <item name="frame" type="b2602c69:ProjectViewProjectNode" />
               <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="home" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="frame" type="b2602c69:ProjectViewProjectNode" />
               <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="home" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="frame" type="b2602c69:ProjectViewProjectNode" />
               <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="home" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="frame" type="b2602c69:ProjectViewProjectNode" />
               <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="home" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="entry" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="login" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="frame" type="b2602c69:ProjectViewProjectNode" />
@@ -227,30 +400,51 @@
               <item name="houdun" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="houdun" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="system" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="system" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/后盾学习/c86/frame/0909" />
+    <property name="last_opened_file_path" value="D:/后盾学习/c86/frame/0911student" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\phpStudy\WWW\frame\system\config" />
-      <recent name="D:\phpStudy\WWW\frame" />
-      <recent name="D:\phpStudy\WWW\frame\system" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpStudy\WWW\frame\app\admin\view" />
+      <recent name="D:\phpStudy\WWW\frame\app\admin" />
       <recent name="D:\phpStudy\WWW\frame\public\static" />
       <recent name="D:\phpStudy\WWW\frame\ststem" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpStudy\WWW\frame\public\static" />
+      <recent name="D:\phpStudy\WWW\frame\app\home\view" />
+      <recent name="D:\phpStudy\WWW\frame\document\houtaimoban" />
+      <recent name="D:\phpStudy\WWW\frame\system\config" />
+      <recent name="D:\phpStudy\WWW\frame" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -288,11 +482,12 @@
       <workItem from="1504852451622" duration="21824000" />
       <workItem from="1504916867686" duration="14732000" />
       <workItem from="1505028015662" duration="1561000" />
+      <workItem from="1505091159266" duration="22495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60098000" />
+    <option name="totallyTimeSpent" value="82593000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -307,14 +502,15 @@
     <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15805471" sideWeight="0.4940978" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16033435" sideWeight="0.4940978" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.61045533" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5059022" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -324,7 +520,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -355,77 +550,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/controller/Entry.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houdun/core/Boot.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="57" column="34" lean-forward="false" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houdun/core/Boot.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="57" column="34" lean-forward="false" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/controller/Entry.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json" />
-    <entry file="file://D:/后盾学习/c86/frame/0907/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php" />
-    <entry file="file://$PROJECT_DIR$/centre/core/Boot.php" />
-    <entry file="file://$PROJECT_DIR$/app/home/controller/Entry.php" />
-    <entry file="file://$PROJECT_DIR$/system/helper.php" />
     <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/composer.json" />
     <entry file="file://$PROJECT_DIR$/.gitignore" />
@@ -452,13 +581,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/centre/core/Boot.php" />
     <entry file="file://$USER_HOME$/Desktop/frame/system/helper.php" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/static/bs3/js/npm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -488,13 +610,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/static/bs3/css/bootstrap.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/static/bs3/css/bootstrap.min.css">
@@ -505,23 +627,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/static/bs3/css/bootstrap.min.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/static/bs3/css/bootstrap-theme.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/static/bs3/css/bootstrap-theme.min.css">
@@ -535,31 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/model/Student.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="48" column="29" lean-forward="false" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
-          <folding>
-            <marker date="1504872104022" expanded="true" signature="423:471" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -584,51 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/houdun/core/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houdun/view/Base.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houdun/view/View.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houdun/model/Madel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houdun/core/Boot.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -639,54 +691,230 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houdun/core/Boot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-609">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/houtaimoban/.idea/后台模板.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/houtaimoban/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="141" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/static/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/houtaimoban/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/home/view/entry/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
+        <state relative-caret-position="480">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+          <folding>
+            <marker date="1505128559627" expanded="true" signature="423:471" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houdun/core/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/Common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/home/controller/Entry.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="73" column="67" lean-forward="false" selection-start-line="73" selection-start-column="67" selection-end-line="73" selection-end-column="67" />
+        <state relative-caret-position="279">
+          <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houdun/view/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-489">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/houtaimoban/articleIndex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/view/entry/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="70" column="21" lean-forward="true" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/houtaimoban/addArticle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/view/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="30" column="63" lean-forward="false" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#form#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#2;n#form#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1505132302521" expanded="true" signature="1626:1628" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/view/entry/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="137" column="45" lean-forward="false" selection-start-line="137" selection-start-column="45" selection-end-line="137" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houdun/model/Madel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/Entry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+          <folding>
+            <element signature="e#40#61#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/houdun/model/Base.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="140" column="19" lean-forward="false" selection-start-line="140" selection-start-column="19" selection-end-line="140" selection-end-column="19" />
+        <state relative-caret-position="409">
+          <caret line="178" column="49" lean-forward="false" selection-start-line="178" selection-start-column="43" selection-end-line="178" selection-end-column="49" />
           <folding>
             <element signature="e#32#49#0#PHP" expanded="true" />
-            <marker date="1505029580430" expanded="true" signature="1004:1024" ph="select * fro... " />
-            <marker date="1505029580430" expanded="true" signature="1004:1025" ph="select * fro... student" />
-            <marker date="1505029580430" expanded="true" signature="1004:1039" ph="select * fro... " />
-            <marker date="1505029580430" expanded="true" signature="1004:1040" ph="select * fro... $" />
-            <marker date="1505029580430" expanded="true" signature="1004:1054" ph="select * fro... $" />
-            <marker date="1505029580430" expanded="true" signature="1004:1070" ph="select * fro... " />
-            <marker date="1505029580430" expanded="true" signature="1469:1490" ph="select * fro... $" />
-            <marker date="1505029580430" expanded="true" signature="1469:1504" ph="select * fro... " />
-            <marker date="1505029580430" expanded="true" signature="1469:1505" ph="select * fro... $" />
-            <marker date="1505029580430" expanded="true" signature="1469:1519" ph="select * fro... $" />
-            <marker date="1505029580430" expanded="true" signature="1856:1884" ph="select count... $" />
-            <marker date="1505029580430" expanded="true" signature="1856:1899" ph="select count... $" />
-            <marker date="1505029580430" expanded="true" signature="1856:1913" ph="select count... $" />
-            <marker date="1505029580430" expanded="true" signature="2475:2535" ph="select ${{$f... " />
-            <marker date="1505029580430" expanded="true" signature="2475:2544" ph="select ${{$f... " />
-            <marker date="1505029580430" expanded="true" signature="2475:2545" ph="select ${{$f... " />
-            <marker date="1505029580430" expanded="true" signature="3312:3346" ph="update ${{$t... " />
-            <marker date="1505029580430" expanded="true" signature="3312:3347" ph="update ${{$t... " />
-            <marker date="1505029580430" expanded="true" signature="3312:3361" ph="update ${{$t... " />
-            <marker date="1505029580430" expanded="true" signature="3878:3905" ph="delete from " />
-            <marker date="1505029580430" expanded="true" signature="4600:4612" ph="insert into $... " />
-            <marker date="1505029580430" expanded="true" signature="4600:4626" ph="insert into " />
-            <marker date="1505029580430" expanded="true" signature="4600:4645" ph="insert into $... " />
-            <marker date="1505029580430" expanded="true" signature="4600:4657" ph="insert into $... " />
-            <marker date="1505029580430" expanded="true" signature="4724:4765" ph="/** * 获取表中id... " />
+            <marker date="1505120970267" expanded="true" signature="998:1034" ph="select ${{$f... " />
+            <marker date="1505120970267" expanded="true" signature="1463:1499" ph="select ${{$f... " />
+            <marker date="1505120970267" expanded="true" signature="1847:1890" ph="select count... $" />
+            <marker date="1505120970267" expanded="true" signature="2466:2536" ph="select ${{$f... " />
+            <marker date="1505120970267" expanded="true" signature="3303:3338" ph="update ${{$t... " />
+            <marker date="1505120970267" expanded="true" signature="3869:3896" ph="delete from " />
+            <marker date="1505120970267" expanded="true" signature="4591:4648" ph="insert into $... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houdun/view/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="57" column="10" lean-forward="false" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="52" column="45" lean-forward="false" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+          <folding>
+            <element signature="e#40#67#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/model/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="131" column="71" lean-forward="false" selection-start-line="131" selection-start-column="71" selection-end-line="131" selection-end-column="71" />
+          <folding />
         </state>
       </provider>
     </entry>

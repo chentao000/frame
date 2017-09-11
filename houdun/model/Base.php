@@ -34,9 +34,9 @@ class Base
 		if (is_null (self::$pdo)) {
 			self::connect ();
 		}
-		//dd ($class);//system\model\Student
-		//1.将接收过来的$class截取字符串   \Student
-		//2.删除'\' 		Student
+		//dd ($class);//system\model\Admin
+		//1.将接收过来的$class截取字符串   \Admin
+		//2.删除'\' 		Admin
 		//3.因为数据库为小写 说以需要将字符串转化为小写
 		$this->table = strtolower (ltrim (strrchr ($class, '\\'), '\\'));
 		//dd ($this->table);
@@ -95,7 +95,7 @@ class Base
 			
 			return $this;
 		}
-		return $this;
+		return [];
 	}
 	
 	/**

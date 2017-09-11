@@ -15,7 +15,7 @@ class Controller
 	public function message($message){
 		
 		include './view/message.php';
-		return $this;
+		exit;
 	}
 	
 	/**

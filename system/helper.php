@@ -39,7 +39,12 @@ if (!function_exists ('dd')) {
 }
 
 if (!function_exists ('c')) {
-	
+	/**
+	 *连接数据库
+	 * database.host
+	 * @param $var
+	 * @return null
+	 */
 	function c ($var)
 	{
 		$info = explode ('.', $var);
@@ -47,5 +52,22 @@ if (!function_exists ('c')) {
 		$data = include "../system/config/" . $info[0] . ".php";
 //		dd ($data);
 		return isset($data[$info[1]]) ? $data[$info[1]] : null;
+	}
+}
+
+if (!function_exists ('u')) {
+	
+	function u ($url)
+	{
+		//dd($url);
+		$info = explode ('.',$url);
+		//dd($info);
+		if(count ($info)==2){
+			return "index.php?s=".MODULE."/{$info[0]}/{$info[1]}";
+		}
+		if(count ($info)==1){
+			return "index.php?s=".MODULE."/".CONTROLLER."/{$info[0]}";
+		}
+		return "index.php?s={$info[0]}/{$info[1]}/{$info[2]}";
 	}
 }

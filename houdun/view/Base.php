@@ -40,7 +40,7 @@ class Base
 		//通过定义的常量来组合路径
 		//组合的路径根据get参数s变化
 		$this->file = "../app/" . MODULE . "/view/" . strtolower (CONTROLLER) . "/" . ACTION . ".".c ("view.suffix");
-		//dd ($this->file);
+		//dd ($this->file);die;
 		return $this;
 	}
 	
@@ -55,6 +55,7 @@ class Base
 //		dd ($this->data);
 		//将$this->data的值转化为变量
 		extract ($this->data);
+		//dd ($this->file);die;
 		//引入欢迎界面
 		include $this->file;
 		return '';

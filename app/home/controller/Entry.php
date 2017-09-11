@@ -5,7 +5,7 @@ namespace app\home\controller;
 use houdun\core\Controller;
 use houdun\view\Base;
 use houdun\view\View;
-use system\model\Student;
+use system\model\Admin;
 
 class Entry extends Controller
 {
@@ -18,25 +18,25 @@ class Entry extends Controller
 
 //*********************************测试根据主键查找单一数据*******************************//
 		//一个数据表对应一个模板
-//			$data=Student::find(1)->toArray();
+//			$data=Admin::find(1)->toArray();
 //			dd ($data);
 
 
 //*********************************测试查找所有数据*******************************//
-//			$data = Student::getAll()->toArray();
+//			$data = Admin::getAll()->toArray();
 //			dd ($data);
 
 //*********************************测试where条件查找数据*******************************//
-//			$data = Student::where("cid>3")->getAll()->toArray();
+//			$data = Admin::where("cid>3")->getAll()->toArray();
 //			dd ($data);
 
 //*********************************测试where条件查找数据*******************************//
-//			$data = Student::where("cid>3")->getAll()->toArray();
+//			$data = Admin::where("cid>3")->getAll()->toArray();
 //			dd ($data);
 
 
 //*********************************测试汇总方法*******************************//
-//			$data = Student::count();
+//			$data = Admin::count();
 //			dd ($data);
 
 //*********************************测试更新数据方法*******************************//
@@ -45,13 +45,13 @@ class Entry extends Controller
 //				"sex"=>"女",
 //				"cid"=>10
 //			];
-//			$res = Student::where("id = 1")->update($data);
+//			$res = Admin::where("id = 1")->update($data);
 //			dd ($res);
 
 //*********************************测试删除数据方法*******************************//
-		//$res = Student::destory();//bool(false)
-		//$res = Student::destory(1);
-//			$res = Student::where("id = 1")->destory();
+		//$res = Admin::destory();//bool(false)
+		//$res = Admin::destory(1);
+//			$res = Admin::where("id = 1")->destory();
 //			dd ($res);
 
 //*********************************测试更新数据方法*******************************//
@@ -61,18 +61,18 @@ class Entry extends Controller
 //			"cid" => 5
 //
 //		];
-//		$res = Student::insert ($data);
+//		$res = Admin::insert ($data);
 //		dd ($res);
 
 //*********************************测试field方法*******************************//
-//			$data = Student::field("cid")->getAll()->toArray();
-//			$data = Student::field("sname")->where("cid>3")->getAll()->toArray();
+//			$data = Admin::field("cid")->getAll()->toArray();
+//			$data = Admin::field("sname")->where("cid>3")->getAll()->toArray();
 //			dd ($data);
 
 //*********************************测试排序方法*******************************//
 		
-		$data = Student::field('sname')->where("cid>2")->order ('cid');
-		dd ($data);
+//		$data = Admin::field('sname')->where("cid>2")->order ('cid');
+//		dd ($data);
 		
 		
 		$a = 'aaaa';
