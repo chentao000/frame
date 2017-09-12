@@ -14,7 +14,7 @@
 		<h1>Congratuations!</h1>
 		<p>You have successfully created your frame application</p>
 		<p>
-			<a class="btn btn-primary btn-lg">About Me</a>
+			<a href="<?php echo u('admin.login.index')?>" class="btn btn-primary btn-lg">About Me</a>
 		</p>
 	</div>
 </div>

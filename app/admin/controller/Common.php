@@ -18,6 +18,7 @@ class Common extends Controller
 			//echo 1;die;
 			//跳转到登录界面
 			header ('location:?s=admin/login/index');
+			die();
 		}
 	}
 }

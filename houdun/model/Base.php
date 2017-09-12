@@ -343,6 +343,10 @@ class Base
 		try {
 			//执行sql语句
 			$res = self::$pdo->exec ($sql);
+			if ( $lastInsertId = self::$pdo->lastInsertId () ) {
+				//说明有返回的自增id
+				return $lastInsertId;
+			}
 			//返回受影响的数量
 			return $res;
 		} catch (PDOException $exception) {

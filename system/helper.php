@@ -57,17 +57,18 @@ if (!function_exists ('c')) {
 
 if (!function_exists ('u')) {
 	
-	function u ($url)
+	function u ($url,$args=[])
 	{
 		//dd($url);
+        $args = http_build_query($args);
 		$info = explode ('.',$url);
 		//dd($info);
 		if(count ($info)==2){
-			return "index.php?s=".MODULE."/{$info[0]}/{$info[1]}";
+			return "index.php?s=".MODULE."/{$info[0]}/{$info[1]}"."&$args";
 		}
 		if(count ($info)==1){
-			return "index.php?s=".MODULE."/".CONTROLLER."/{$info[0]}";
+			return "index.php?s=".MODULE."/".CONTROLLER."/{$info[0]}"."&$args";
 		}
-		return "index.php?s={$info[0]}/{$info[1]}/{$info[2]}";
+		return "index.php?s={$info[0]}/{$info[1]}/{$info[2]}"."&$args";
 	}
 }

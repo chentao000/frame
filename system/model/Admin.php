@@ -75,10 +75,9 @@ class Admin extends Madel {
 	
 	public function edit($data)
 	{
-		$username=$_SESSION['admin_username'];
 		//dd (password_hash ('admin888',PASSWORD_DEFAULT));die;
 		//dd ($data);die;
-		$admin_username = $data['admin_username'];
+		//获取post数据
 		$admin_password = $data['admin_password'];
 		$newpassword1 = $data['newpassword1'];
 		$newpassword2 = $data['newpassword2'];
@@ -86,9 +85,6 @@ class Admin extends Madel {
 		//return ['code'=>0,'msg'=>'请输入用户名']
 		//code 标识成功还是失败的标识 1代表成功，0代表失败
 		//msg 提示消息
-		//判断用户名是否为空
-		//如果不匹配返回'code'=>0,'msg'=>'请输入用户名
-		if (!trim ($admin_username)) return ['code'=>0,'msg'=>'请输入用户名'];
 		//dd ($data);
 		//判断密码是否为空
 		//如果不匹配返回'code'=>0,'msg'=>'请输入密码'
@@ -104,26 +100,20 @@ class Admin extends Madel {
 		
 		//读取数据库数据
 		//根据past传递过来的admin_username进行查找
-		$userinfo = $this->where( " admin_username = '{$admin_username}'")->getAll();
+		$userinfo = $this->find($_SESSION['admin_id'])->toArray();
 		//$userinfo =$userinfo->toArray();
-		//dd($userinfo);die;
-		//如果返回的$userinfo为空数据
-		//那么登录失败返回'code'=>0,'msg'=>'您输入的用户名不存在'
-		if (empty($userinfo)) return ['code'=>0,'msg'=>'您输入的用户名不存在'];
 		
-		//将$userinfo对象转化为数组
-		$userinfo = $userinfo->toArray();
 		//dd($userinfo);die;
 		//通过password_verify判断密码是否能够匹配
 		//如果不匹配说明密码不正确
 		//那么登录失败返回'code'=>0,'msg'=>'密码错误'
-		if (!password_verify ($admin_password,$userinfo[0]['admin_password'])) return ['code'=>0,'msg'=>'您输入的密码不正确'];
+		if (!password_verify ($admin_password,$userinfo['admin_password'])) return ['code'=>0,'msg'=>'您输入的密码不正确'];
 		
 		//通过password_verify判断密码是否能够匹配
 		//如果不匹配说明密码不正确
 		//那么登录失败返回'code'=>0,'msg'=>'密码错误'
 		
-		if (password_verify ($newpassword1,$userinfo[0]['admin_password'])) return ['code'=>0,'msg'=>'您输入的新旧密码相同'];
+		if (password_verify ($newpassword1,$userinfo['admin_password'])) return ['code'=>0,'msg'=>'您输入的新旧密码相同'];
 		
 		//通过password_verify判断密码是否能够匹配
 		//如果不匹配说明密码不正确
@@ -131,7 +121,7 @@ class Admin extends Madel {
 		if ($newpassword1 != $newpassword2) return ['code'=>0,'msg'=>'您两次输入的新密码不相同'];
 		$admin_password = password_hash ($newpassword2,PASSWORD_DEFAULT);
 		//dd (compact ('admin_password'));die;
-		$this->where("admin_username = '$admin_username'")->update(compact ('admin_password'));
+		$this->where("id = {$_SESSION['admin_id']}")->update(compact ('admin_password'));
 		return ['code'=>1,'msg'=>'修改成功'];
 	}
 }
