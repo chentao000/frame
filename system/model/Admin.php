@@ -70,7 +70,7 @@ class Admin extends Madel {
 		//清除所有session资源
 		session_unset ();
 		session_destroy ();
-		$_SESSION['phrase']='';
+		$_SESSION['phrase'] = '';
 	}
 	
 	public function edit($data)

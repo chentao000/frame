@@ -14,7 +14,7 @@
 						<div class="form-group">
 							<label for="" class="col-sm-2 control-label">用户名</label>
 							<div class="col-sm-10">
-								<input type="text" class="form-control" disabled name="admin_username" placeholder="" value="<?php echo $username ?>">
+								<input type="text" class="form-control" disabled name="admin_username" placeholder="" value="<?php echo $_SESSION['admin_username'] ?>">
 							</div>
 						</div>
 						<div class="form-group">

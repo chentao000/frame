@@ -25,7 +25,8 @@ class Entry extends Common
 	public function out()
 	{
 		(new Admin())->out ();
-		$this->setRedirect()-> message('退出成功') ;exit;
+		$this->setRedirect()-> message('退出成功') ;
+		exit;
 	}
 	
 	/**
@@ -52,7 +53,6 @@ class Entry extends Common
 			}
 		}
 		//加载模板文件
-		$username = $_SESSION['admin_username'];
-		return View::with(compact ('username'))->make();
+		return View::make();
 	}
 }

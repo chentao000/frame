@@ -3,21 +3,36 @@
 namespace app\home\controller;
 
 use houdun\core\Controller;
-use houdun\view\Base;
 use houdun\view\View;
-use system\model\Admin;
+use system\model\Student;
 
 class Entry extends Controller
 {
-	
-	public function index ()
-	{
-		//测试c函数是够正确运行
-		//$user= c ('database.host');
-		//dd ($user);
+
+    public function index()
+    {
+        $data = Student::query("select * from student s join grade g on s.gid = g.gid JOIN  material m on s.mid=m.mid");
+        return View::make()->with(compact('data'));
+    }
+
+    public function add()
+    {
+
+        $this->setRedirect("?s=home/entry/index")->message('添加成功');
+    }
+}
+
+
+/**
+ * 测试
+ */
+
+//测试c函数是够正确运行
+//$user= c ('database.host');
+//dd ($user);
 
 //*********************************测试根据主键查找单一数据*******************************//
-		//一个数据表对应一个模板
+//一个数据表对应一个模板
 //			$data=Admin::find(1)->toArray();
 //			dd ($data);
 
@@ -49,8 +64,8 @@ class Entry extends Controller
 //			dd ($res);
 
 //*********************************测试删除数据方法*******************************//
-		//$res = Admin::destory();//bool(false)
-		//$res = Admin::destory(1);
+//$res = Admin::destory();//bool(false)
+//$res = Admin::destory(1);
 //			$res = Admin::where("id = 1")->destory();
 //			dd ($res);
 
@@ -70,21 +85,11 @@ class Entry extends Controller
 //			dd ($data);
 
 //*********************************测试排序方法*******************************//
-		
+
 //		$data = Admin::field('sname')->where("cid>2")->order ('cid');
 //		dd ($data);
-		
-		
-		$a = 'aaaa';
-		//dd (compact ('a'));
-		//return View::with(compact ('a'))->make();
-		return View::make ();
-	}
-	
-	public function add ()
-	{
-		//echo "add";
-		//链式调用setRedirect和message
-		$this->setRedirect ("?s=home/entry/index")->message ('添加成功');
-	}
-}
+
+
+//$a = 'aaaa';
+//dd (compact ('a'));
+//return View::with(compact ('a'))->make();

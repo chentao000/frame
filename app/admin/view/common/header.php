@@ -52,7 +52,7 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">
                             <i class="fa fa-w fa-user"></i>
-                            <?php echo $username ?>
+                            <?php echo $_SESSION['admin_username'] ?>
                             <span class="caret"></span>
                         </a>
                         <ul class="dropdown-menu">
@@ -99,7 +99,7 @@
                     </a>
                 </div>
                 <ul class="list-group menus collapse in" id="collapseExample2">
-                    <a href="" class="list-group-item">
+                    <a href="<?php echo u('material.index')?>" class="list-group-item">
                         <i class="fa fa-file-text" aria-hidden="true"></i>
                         <span class="pull-right" href=""></span>
                         素材列表
@@ -116,7 +116,7 @@
                     </a>
                 </div>
                 <ul class="list-group menus collapse in" id="collapseExample2">
-                    <a href="" class="list-group-item">
+                    <a href="<?php echo u('student.index') ?>" class="list-group-item">
                         <i class="fa fa-file-text" aria-hidden="true"></i>
                         <span class="pull-right" href=""></span>
                         学生列表

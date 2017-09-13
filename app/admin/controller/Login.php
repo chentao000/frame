@@ -18,7 +18,7 @@ class Login extends Controller
 	
 	public function index()
 	{
-		//生成加密后的密码加入手动加入数据库中
+        //生成加密后的密码加入手动加入数据库中
 		//dd (password_hash ('admin888',PASSWORD_DEFAULT));
 		
 		//测试验证码

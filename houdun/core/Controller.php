@@ -13,7 +13,6 @@ class Controller
 	 * @return $this
 	 */
 	public function message($message){
-		
 		include './view/message.php';
 		exit;
 	}
@@ -24,7 +23,7 @@ class Controller
 	 * @return $this
 	 */
 	//给$url一个空数组做判断
-	public function setRedirect($url=''){
+	public function setRedirect( $url='' ){
 		//判断$url是够传参如果没有就返回上一级
 		if (empty($url)){
 			//返回上一级

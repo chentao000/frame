@@ -10,13 +10,11 @@ class Grade extends Common
     public function index()
     {
         //获取数据库数据
-        $ojb = GradeModel::getAll();
+        $data= GradeModel::order('gid');
         //如果数据库为空返回一个空数组
         //如果不为空那么将对象转化为数组
-        $data = $ojb ? $ojb->toArray():[];
         //dd($data);
-        $username = $_SESSION['admin_username'];
-        return View::make()->with(compact('username','data'));
+        return View::make()->with(compact('data'));
     }
 
     public function add()
@@ -34,8 +32,7 @@ class Grade extends Common
                 $this->setRedirect ()->message ($res['msg']);
             }
         }
-        $username = $_SESSION['admin_username'];
-        return View::make()->with(compact('username'));
+        return View::make();
     }
 
     /**
@@ -44,6 +41,7 @@ class Grade extends Common
      */
     public function edit()
     {
+        //获取id
         $gid = $_GET['gid'];
         if (IS_POST){
             $res=(new GradeModel())->edit($gid,$_POST);
@@ -60,8 +58,7 @@ class Grade extends Common
         //提取数据库数据
         //在页面循环显示出来
         $oldData = GradeModel::find($gid)->toArray();
-        $username = $_SESSION['admin_username'];
-        return View::make()->with(compact('username','oldData'));
+        return View::make()->with(compact('oldData'));
     }
 
     /**
