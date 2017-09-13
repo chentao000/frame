@@ -20,6 +20,7 @@
                         <th>学生姓名</th>
                         <th>学生性别</th>
                         <th>学生年龄</th>
+                        <th>学生班级</th>
                         <th>添加时间</th>
                         <th>操作</th>
                     </tr>
@@ -32,6 +33,7 @@
                             <td><?php echo $v['sname'] ?></td>
                             <td><?php echo $v['ssex'] ?></td>
                             <td><?php echo $v['sage'] ?></td>
+                            <td><?php echo $v['gname'] ?></td>
                             <td><?php echo date('y-m-d',$v['stime']) ?></td>
                             <td>
                                 <div class="btn-group btn-group-s">

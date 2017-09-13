@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10e5b9f0-7eda-48b1-ac01-9b41947439cb" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin/controller/Material.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin/controller/Student.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin/view/material/add.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin/view/material/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin/view/student/add.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin/view/student/edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin/view/student/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/model/Material.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/model/Student.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/admin/controller/Entry.php" afterPath="$PROJECT_DIR$/app/admin/controller/Entry.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/admin/controller/Grade.php" afterPath="$PROJECT_DIR$/app/admin/controller/Grade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/admin/controller/Login.php" afterPath="$PROJECT_DIR$/app/admin/controller/Login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/admin/view/common/header.php" afterPath="$PROJECT_DIR$/app/admin/view/common/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/admin/view/entry/edit.php" afterPath="$PROJECT_DIR$/app/admin/view/entry/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/home/controller/Entry.php" afterPath="$PROJECT_DIR$/app/home/controller/Entry.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/admin/view/student/index.php" afterPath="$PROJECT_DIR$/app/admin/view/student/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/home/view/entry/index.php" afterPath="$PROJECT_DIR$/app/home/view/entry/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/houdun/core/Controller.php" afterPath="$PROJECT_DIR$/houdun/core/Controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/model/Admin.php" afterPath="$PROJECT_DIR$/system/model/Admin.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,101 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Entry.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/admin/controller/Entry.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/home/view/entry/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Admin.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/system/model/Admin.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Boot.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/houdun/core/Boot.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1017">
-              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Controller.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/houdun/core/Controller.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Madel.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/houdun/model/Madel.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Base.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/houdun/view/Base.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1368">
-              <caret line="57" column="10" lean-forward="false" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="View.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/houdun/view/View.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="message.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/view/message.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/admin/view/entry/edit.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="161" lean-forward="false" selection-start-line="16" selection-start-column="161" selection-end-line="16" selection-end-column="161" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/admin/controller/Login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="-407">
+              <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -211,9 +103,7 @@
         <option value="$PROJECT_DIR$/app/admin/view/student/add.php" />
         <option value="$PROJECT_DIR$/app/admin/view/student/edit.php" />
         <option value="$PROJECT_DIR$/system/model/Student.php" />
-        <option value="$PROJECT_DIR$/app/admin/view/student/index.php" />
         <option value="$PROJECT_DIR$/app/home/controller/Entry.php" />
-        <option value="$PROJECT_DIR$/app/home/view/entry/index.php" />
         <option value="$PROJECT_DIR$/app/admin/view/common/header.php" />
         <option value="$PROJECT_DIR$/app/admin/controller/Material.php" />
         <option value="$PROJECT_DIR$/app/admin/controller/Grade.php" />
@@ -223,6 +113,8 @@
         <option value="$PROJECT_DIR$/system/model/Admin.php" />
         <option value="$PROJECT_DIR$/app/admin/controller/Login.php" />
         <option value="$PROJECT_DIR$/houdun/core/Controller.php" />
+        <option value="$PROJECT_DIR$/app/admin/view/student/index.php" />
+        <option value="$PROJECT_DIR$/app/home/view/entry/index.php" />
       </list>
     </option>
   </component>
@@ -306,27 +198,20 @@
               <item name="frame" type="b2602c69:ProjectViewProjectNode" />
               <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="home" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="frame" type="b2602c69:ProjectViewProjectNode" />
               <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="home" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="frame" type="b2602c69:ProjectViewProjectNode" />
               <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="home" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="entry" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
@@ -484,12 +369,12 @@
       <workItem from="1505200930928" duration="5758000" />
       <workItem from="1505207757632" duration="4633000" />
       <workItem from="1505262297300" duration="2500000" />
-      <workItem from="1505285206174" duration="15657000" />
+      <workItem from="1505285206174" duration="16664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121541000" />
+    <option name="totallyTimeSpent" value="122548000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -812,22 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/admin/view/student/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="44" column="24" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="44" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/view/entry/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/admin/view/common/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -882,17 +751,6 @@
           <caret line="58" column="37" lean-forward="true" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
           <folding>
             <element signature="e#40#67#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/admin/controller/Student.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-          <folding>
-            <element signature="e#40#61#0#PHP" expanded="true" />
-            <marker date="1505306277016" expanded="true" signature="233:317" ph="select * fro... student" />
           </folding>
         </state>
       </provider>
@@ -985,10 +843,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/Student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="e#40#61#0#PHP" expanded="true" />
+            <marker date="1505306277016" expanded="true" signature="233:317" ph="select * fro... student" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/view/student/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="35" column="52" lean-forward="false" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/houdun/core/Controller.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="696">
+          <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/view/entry/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-407">
+          <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
           <folding />
         </state>
       </provider>

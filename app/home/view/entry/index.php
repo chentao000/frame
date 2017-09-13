@@ -16,7 +16,7 @@
         <div class="row">
         	<div class="panel panel-primary">
         		  <div class="panel-heading">
-        				<h3 class="panel-title">Panel title</h3>
+        				<h3 class="panel-title">学生名单列表</h3>
         		  </div>
         		  <div class="panel-body">
                       <table class="table table-hover">
@@ -27,6 +27,7 @@
                               <th>学生姓名</th>
                               <th>学生性别</th>
                               <th>学生年龄</th>
+                              <th>学生班级</th>
                               <th>添加时间</th>
                           </tr>
                           </thead>
@@ -38,6 +39,7 @@
                                   <td><?php echo $v['sname'] ?></td>
                                   <td><?php echo $v['ssex'] ?></td>
                                   <td><?php echo $v['sage'] ?></td>
+                                  <td><?php echo $v['gname'] ?></td>
                                   <td><?php echo date('y-m-d',$v['stime']) ?></td>
                               </tr>
                           <?php endforeach;?>
