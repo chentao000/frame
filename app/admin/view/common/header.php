@@ -9,7 +9,7 @@
     <link href="./static/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <script src="./static/js/jquery.min.js"></script>
     <script src="./static/bs3/js/bootstrap.min.js"></script>
-    <script src="./static/hdjs/del.js"></script>
+    <script src="./static/hdjs/index.js"></script>
     <!--[if lt IE 9]>
     <script src="http://cdn.bootcss.com/html5shiv/r29/html5.min.js"></script>
     <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>

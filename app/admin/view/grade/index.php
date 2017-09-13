@@ -41,7 +41,7 @@
 </div>
 <script>
     function del(gid) {
-        var url = "<?php echo u('del')?>" + '&gid=' + gid
+        var url = "<?php echo u('del')?>" + '&gid=' + gid;
 //        调用modal函数
         modal(url);
     }
